@@ -16,6 +16,10 @@ public class GiMav {
   public void f() {
 	  driver.get("http://www.bbc.co.uk/");
   }
+  @Test
+  public void f1() {
+	  driver.get("https://www.skyscanner.net/");
+  }
   @AfterTest
   public void afterTest() {
   System.out.println("before closing");
