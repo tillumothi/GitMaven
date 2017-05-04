@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4569" started-at="2017-05-04T07:50:46Z" finished-at="2017-05-04T07:50:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4569" started-at="2017-05-04T07:50:46Z" finished-at="2017-05-04T07:50:51Z">
+      <class name="GitMaven.GiMav">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:GitMaven.GiMav@3feb2dda]" name="beforeTest" is-config="true" duration-ms="10" started-at="2017-05-04T08:50:46Z" finished-at="2017-05-04T08:50:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:GitMaven.GiMav@3feb2dda]" name="f" duration-ms="3720" started-at="2017-05-04T08:50:46Z" finished-at="2017-05-04T08:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:GitMaven.GiMav@3feb2dda]" name="afterTest" is-config="true" duration-ms="828" started-at="2017-05-04T08:50:50Z" finished-at="2017-05-04T08:50:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- GitMaven.GiMav -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
